@@ -77,7 +77,7 @@ if (grades >= 90) {
     console.log("Grade: C");
 }
 
-
+ 
 // 13. Combined Conditions with Logical Operators: Declare variables `isMember` and `purchaseAmount`. Log "You qualify for a discount" if `isMember` is true and `purchaseAmount` is greater than 100.
 let isMember = true;
 let purchaseAmount = 150;
